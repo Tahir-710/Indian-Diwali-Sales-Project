@@ -1,4 +1,3 @@
-const readmeContent = `
 # 🪔 Diwali Sales Analysis 📊  
 
 ## 📌 Overview  
@@ -30,7 +29,7 @@ The dataset consists of transaction details from an e-commerce platform during D
 ## 🔧 How to Run the Project  
 1. **Clone the repository**  
    \`\`\`bash
-   git clone https://github.com/your-username/diwali-sales-analysis.git
+   git clone https://github.com/Tahir-710/diwali-sales-analysis.git
    cd diwali-sales-analysis
    \`\`\`
 2. **Install dependencies**  
@@ -48,11 +47,4 @@ The dataset consists of transaction details from an e-commerce platform during D
 - Integrate machine learning for customer segmentation and trend forecasting.  
 - Visualize data using advanced dashboards (Tableau, Power BI).  
 
-## 🤝 Contributing  
-Feel free to fork this repository, open issues, or submit pull requests to enhance the analysis.  
 
-## 📜 License  
-This project is licensed under the MIT License.  
-`;
-
-console.log(readmeContent);
