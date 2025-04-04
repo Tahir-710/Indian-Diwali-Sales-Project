@@ -29,7 +29,7 @@ The dataset consists of transaction details from an e-commerce platform during D
 ## 🔧 How to Run the Project  
 1. **Clone the repository**  
    \`\`\`bash
-   git clone https://github.com/Tahir-710/diwali-sales-analysis.git
+   git clone https://github.com/Tahir-710/Indian-Diwali-Sales-Project.git
    cd diwali-sales-analysis
    \`\`\`
 2. **Install dependencies**  
